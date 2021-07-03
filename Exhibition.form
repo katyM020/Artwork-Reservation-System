@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" pref="37" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="137" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="100" max="32767" attributes="0"/>
+              <Component id="Idd" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="137" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="74" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="artworkId" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ExhibitionId" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ExhibitionSD" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Artwork_ID" alignment="0" pref="134" max="32767" attributes="0"/>
+                          <Component id="Exhibition_ID" alignment="0" max="32767" attributes="0"/>
+                          <Component id="Exhibition_Start_Date" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="ExhibitionED" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ExhibitionL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ExhibitiontT" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="72" pref="72" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="Exhibition_Time" min="-2" pref="134" max="-2" attributes="0"/>
+                          <Component id="Exhibition_Location" min="-2" pref="134" max="-2" attributes="0"/>
+                          <Component id="Exhibition_End_Date" alignment="0" min="-2" pref="134" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Component id="Idd" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="artworkId" pref="30" max="32767" attributes="0"/>
+                  <Component id="Artwork_ID" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                  <Component id="ExhibitionId" pref="30" max="32767" attributes="0"/>
+                  <Component id="Exhibition_ID" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="ExhibitionSD" min="-2" max="-2" attributes="0"/>
+                  <Component id="Exhibition_Start_Date" min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="ExhibitionED" min="-2" max="-2" attributes="0"/>
+                  <Component id="Exhibition_End_Date" min="-2" pref="33" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="32" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ExhibitionL" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="Exhibition_Location" alignment="1" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="34" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ExhibitiontT" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="Exhibition_Time" alignment="1" min="-2" pref="32" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="74" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Dialog" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Exhibition Details"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ExhibitionId">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exhibition ID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="artworkId">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Artwork ID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ExhibitionSD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exhibition Start Date"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ExhibitionED">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exhibition End date"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ExhibitionL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exhibition Location"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ExhibitiontT">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Exhibition Time"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Artwork_ID">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Exhibition_ID">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Exhibition_Start_Date">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Exhibition_End_Date">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Exhibition_Location">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Exhibition_Time">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Idd">
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="D:\icons8-return-26.png"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
